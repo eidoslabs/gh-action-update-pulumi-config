@@ -1,7 +1,7 @@
 {
   "name": "gh-action-update-pulumi-config",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "lib/main.js",
   "repository": "https://github.com/eidoslabs/gh-action-update-pulumi-config.git",
   "author": "H. Charley Bodkin <hcbodkin@gmail.com>",
   "license": "MIT",
