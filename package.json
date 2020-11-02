@@ -1,0 +1,14 @@
+{
+  "name": "gh-action-update-pulumi-config",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/eidoslabs/gh-action-update-pulumi-config.git",
+  "author": "H. Charley Bodkin <hcbodkin@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "ncc build index.js --license licenses.txt"
+  },
+  "devDependencies": {
+    "@vercel/ncc": "^0.24.1"
+  }
+}
